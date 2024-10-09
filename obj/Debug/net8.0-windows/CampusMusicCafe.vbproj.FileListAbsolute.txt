@@ -1,0 +1,16 @@
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.frmCampusMusicCafe.resources
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\bin\Debug\net8.0-windows\CampusMusicCafe.exe
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\bin\Debug\net8.0-windows\CampusMusicCafe.deps.json
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\bin\Debug\net8.0-windows\CampusMusicCafe.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\bin\Debug\net8.0-windows\CampusMusicCafe.dll
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\bin\Debug\net8.0-windows\CampusMusicCafe.pdb
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.dll
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\refint\CampusMusicCafe.dll
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.pdb
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\CampusMusicCafe.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\CampusMusicCafe\obj\Debug\net8.0-windows\ref\CampusMusicCafe.dll
